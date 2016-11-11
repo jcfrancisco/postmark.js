@@ -6,7 +6,7 @@
     "utility",
     "postmark"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Chris Williams <voodootikigod@gmail.com>",
   "contributors": [
     "Aaron Blum",
@@ -43,7 +43,7 @@
   "homepage": "http://wildbit.github.io/postmark.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wildbit/postmark.js.git"
+    "url": "https://github.com/jcfrancisco/postmark.js.git"
   },
   "bugs": {
     "url": "https://github.com/wildbit/postmark.js/issues"
