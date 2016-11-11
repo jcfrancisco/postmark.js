@@ -1,12 +1,12 @@
 {
-  "name": "postmark",
+  "name": "postmark-webpack",
   "description": "Ridiculously Simple Email Sending From Node.js For http://www.postmarkapp.com",
   "tags": [
     "email",
     "utility",
     "postmark"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Chris Williams <voodootikigod@gmail.com>",
   "contributors": [
     "Aaron Blum",
